@@ -4,7 +4,7 @@
 
  I am currently enrolled at Old Dominion University for my Masters Program in Data Science & Analytics, and i will be showcasing some of my projects learned in this program as times goes on. I am interested in learning more about big data and business intelligence, and machine learning because all this are still new to me. 
 
- ## Experience
+### Experience
  
  SQL Developer/Data analyst with 5 years of programming experience in Analysis, Design, and Implementation of Business Application using the Relational Database Management System (RDBMS). Involved in all phases of the SDLC (Software Development Life Cycle) from analysis, design, development, testing, implementation, and maintenance with timely delivery against aggressive deadlines
 
