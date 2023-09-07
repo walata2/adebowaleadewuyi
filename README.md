@@ -7,5 +7,6 @@
  
  SQL Developer/Data analyst with 5 years of programming experience in Analysis, Design, and Implementation of Business Application using the Relational Database Management System (RDBMS). Involved in all phases of the SDLC (Software Development Life Cycle) from analysis, design, development, testing, implementation, and maintenance with timely delivery against aggressive deadlines
 
-### My Certificate
-file:///C:/Users/adebo/Downloads/CompTIA%20Security+%20ce%20certificate.pdf
+### My Resume
+
+Here is my Resume [Resume]
