@@ -10,4 +10,4 @@
 
 ### My Resume
 
-Here is my ![Resume](Wale_Resume.pdf)
+Here is my [Resume](Wale_Resume.pdf)
