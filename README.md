@@ -9,4 +9,4 @@
 
 ### My Resume
 
-Here is my Resume [Resume]
+Here is my Resume [Resume](Wale_Resume.pdf)
